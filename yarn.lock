@@ -13,15 +13,16 @@ __metadata:
   linkType: hard
 
 "@cloudflare/wrangler@npm:^1.19.4":
-  version: 1.19.4
-  resolution: "@cloudflare/wrangler@npm:1.19.4"
+  version: 1.21.0
+  resolution: "@cloudflare/wrangler@npm:1.21.0"
   dependencies:
     axios: ^0.21.1
     rimraf: ^3.0.2
     tar: ^6.1.10
   bin:
     wrangler: run-wrangler.js
-  checksum: e22e01eb0a703e10fe23ffc1b22985b5706d9f8c70c3611c19ca755a01a7472712ff0354df19a91d1e4cdc97e7618a306d51c0e88860a88f9030f30b73356282
+    wrangler1: run-wrangler.js
+  checksum: b95d849cae880caf242fb4b7f0c11f18c0fc21b77b1d84432eb7cab9e495e15617f7c3055885760eccfe96cb539d022c3437f928d2f3b00d7b2f243dc7872016
   languageName: node
   linkType: hard
 
