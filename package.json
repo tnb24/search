@@ -14,7 +14,7 @@
 		"act:m1": "act --container-architecture linux/amd64 pull_request"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^3.0.0",
+		"@cloudflare/workers-types": "^4.0.0",
 		"@cloudflare/wrangler": "^1.19.4",
 		"prettier": "2.4.1",
 		"tsup": "^5.5.0",
